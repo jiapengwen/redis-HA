@@ -10,3 +10,5 @@
  （2）sentinel 监控redis master， 当发现master服务不可用，自动切换主从，关键步骤：删除原来master主机的vip，新选择的slave->master主机配置相同vip；
  
  对于client来说：10.10.80.129:6379服务只在发生单点故障发生failover时，服务10s不可用，当完成切换后，服务恢复正常，数据完全不丢失，在小规模生产环境中，完全足以支撑业务；
+
+https://github.com/jiapengwen/redis-HA/blob/master/images/ip1.jpg
