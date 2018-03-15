@@ -13,10 +13,13 @@
 
 slave 服务器10.10.80.225
 ![image](https://github.com/jiapengwen/redis-HA/blob/master/images/ip1.jpg)
+
 master服务器10.10.80.35 ，所以会有vip10.10.80.129
 ![image](https://github.com/jiapengwen/redis-HA/blob/master/images/ip2.jpg)
+
 slave服务器10.10.81.24
 ![image](https://github.com/jiapengwen/redis-HA/blob/master/images/ip3.jpg)
+
 ![image](https://github.com/jiapengwen/redis-HA/blob/master/images/%E9%80%9A%E8%BF%87vip%E8%AE%BF%E9%97%AEredis.jpg)
 ![image](https://github.com/jiapengwen/redis-HA/blob/master/images/%E9%80%9A%E8%BF%87sentinel%E6%9F%A5%E7%9C%8B%E7%9B%91%E6%8E%A7%E7%9A%84master.jpg)
 ![image](https://github.com/jiapengwen/redis-HA/blob/master/images/sentinel%E7%9B%91%E6%8E%A7%E6%95%B0%E6%8D%AE.jpg)
