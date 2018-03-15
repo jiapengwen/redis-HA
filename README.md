@@ -12,3 +12,8 @@
  对于client来说：10.10.80.129:6379服务只在发生单点故障发生failover时，服务10s不可用，当完成切换后，服务恢复正常，数据完全不丢失，在小规模生产环境中，完全足以支撑业务；
 
 ![image](https://github.com/jiapengwen/redis-HA/blob/master/images/ip1.jpg)
+![image](https://github.com/jiapengwen/redis-HA/blob/master/images/ip2.jpg)
+![image](https://github.com/jiapengwen/redis-HA/blob/master/images/ip3.jpg)
+![image](https://github.com/jiapengwen/redis-HA/blob/master/images/%E9%80%9A%E8%BF%87vip%E8%AE%BF%E9%97%AEredis.jpg)
+![image](https://github.com/jiapengwen/redis-HA/blob/master/images/%E9%80%9A%E8%BF%87sentinel%E6%9F%A5%E7%9C%8B%E7%9B%91%E6%8E%A7%E7%9A%84master.jpg)
+![image](https://github.com/jiapengwen/redis-HA/blob/master/images/sentinel%E7%9B%91%E6%8E%A7%E6%95%B0%E6%8D%AE.jpg)
