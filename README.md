@@ -13,7 +13,7 @@
  
  
 redis_HA方案 
-![image](https://github.com/jiapengwen/redis-HA/blob/master/images/redis_HA.jpg）
+![image](https://github.com/jiapengwen/redis-HA/blob/master/images/redis_HA.jpg)
  
  
 slave 服务器10.10.80.225
